@@ -764,3 +764,6 @@ model-viewer .controls {
 .meshes .controls button:not(:last-child) {
     margin-right: 4px;
 }
+.meshes p.caption {
+    text-align: center;
+}
