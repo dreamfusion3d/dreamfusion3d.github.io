@@ -93,9 +93,6 @@ function playVids(videoId) {
 
             mergeContext.fillStyle = "#444444";
             mergeContext.fill();
-
-            
-            
         }
         requestAnimationFrame(drawLoop);
     } 

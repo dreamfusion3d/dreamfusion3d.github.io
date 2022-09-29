@@ -523,6 +523,7 @@ p, .caption {
     position: relative;
     display: block;
     line-height: 0;
+    overflow: hidden !important;
   }
   
   .video {
