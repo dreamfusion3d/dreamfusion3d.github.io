@@ -189,7 +189,7 @@
             let compositionalVideo = document.getElementById('compositionalVideo');
             let container = compositionalVideo.parentNode;
             let videoName = phrase.replaceAll(' ', '_') + '_rgbdn_hq_15000.mp4';
-            let sourceURL = "https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev/journey_sept28/cropped/full_continuous/" + videoName;
+            let sourceURL = "https://dreamfusion-cdn.ajayj.com/journey_sept28/cropped/full_continuous/" + videoName;
             console.log('phrase found: ', phrase, sourceURL);
 
             let width = compositionalVideo.offsetWidth;
@@ -304,10 +304,6 @@
             caption: "a bald eagle carved out of wood",
             shortCaption: "a bald eagle carved out of wood",
         },
-    // {
-    //     src: "/assets/meshes/44855521_sept18_hero16_047a_DSLR_photo_of_an_eggshell_broken_in_two_with_an_adorable_chick_standing_next_to_it_1step.glb",
-    //     poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44855521_sept18_hero16_047a_DSLR_photo_of_an_eggshell_broken_in_two_with_an_adorable_chick_standing_next_to_it_1step.webp"
-    // },
         crab: {
             src: "/assets/meshes2/44930695_sept18_hero18_103a_crab,_low_poly_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44930695_sept18_hero18_103a_crab,_low_poly_1step.png",

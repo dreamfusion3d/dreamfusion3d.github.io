@@ -41,9 +41,9 @@
 <body translate="no">
   <div class="banner">
       <video class="video lazy"
-          poster="https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev/sept28/banner_1x6_customhue_A.jpg"
+          poster="https://dreamfusion-cdn.ajayj.com/sept28/banner_1x6_customhue_A.jpg"
           autoplay loop playsinline muted>
-        <source data-src="https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev/sept28/banner_1x6_customhue_A.mp4" type="video/mp4"></source>
+        <source data-src="https://dreamfusion-cdn.ajayj.com/sept28/banner_1x6_customhue_A.mp4" type="video/mp4"></source>
       </video>
   </div>
   <div class="highlight-clean" style="padding-bottom: 10px;">
@@ -584,7 +584,7 @@
       if (isIOS) {
         // Autoplay doesn't seem to work.
         componentVideo.classList = "video";
-        componentVideo.src = "https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev/gallery_sept28/crf20/" + videoPath;
+        componentVideo.src = "https://dreamfusion-cdn.ajayj.com/gallery_sept28/crf20/" + videoPath;
         componentVideo.controls = true;
       } else {
         componentVideo.controls = false;
@@ -594,7 +594,7 @@
         componentSource = document.createElement("SOURCE")
         componentSource.type = "video/mp4"
         componentSource.setAttribute('data-src',
-          "https://pub-b1f092b6867f4495b8f149d222a3bffe.r2.dev/gallery_sept28/crf20/" + videoPath);
+          "https://dreamfusion-cdn.ajayj.com/gallery_sept28/crf20/" + videoPath);
         componentVideo.appendChild(componentSource);
       }
       inner.appendChild(componentVideo);
