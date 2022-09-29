@@ -287,18 +287,22 @@
             src: "/assets/meshes2/sweaterfrog_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/sweaterfrog_1step.jpg",
             "environment-image": "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr",
-            caption: "",
-            shortCaption: "",
+            caption: "a DSLR photo of a frog wearing a sweater",
+            shortCaption: "[...] frog wearing a sweater",
         },
         lemur: {
             src: "/assets/meshes2/44853505_sept18_hero15_124a_lemur_taking_notes_in_a_journal_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44853505_sept18_hero15_124a_lemur_taking_notes_in_a_journal_1step.png",
             "environment-image": "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr",
+            caption: "a lemur taking notes in a journal",
+            shortCaption: "a lemur taking notes in a journal",
         },
         eagle: {
             src: "/assets/meshes2/44853505_sept18_hero15_145a_bald_eagle_carved_out_of_wood_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44853505_sept18_hero15_145a_bald_eagle_carved_out_of_wood_1step.png",
             "environment-image": "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr",
+            caption: "a bald eagle carved out of wood",
+            shortCaption: "a bald eagle carved out of wood",
         },
     // {
     //     src: "/assets/meshes/44855521_sept18_hero16_047a_DSLR_photo_of_an_eggshell_broken_in_two_with_an_adorable_chick_standing_next_to_it_1step.glb",
@@ -308,16 +312,22 @@
             src: "/assets/meshes2/44930695_sept18_hero18_103a_crab,_low_poly_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44930695_sept18_hero18_103a_crab,_low_poly_1step.png",
             "environment-image": "https://modelviewer.dev/shared-assets/environments/whipple_creek_regional_park_04_1k.hdr",
+            caption: "a crab, low poly",
+            shortCaption: "a crab, low poly",
         },
         ghost: {
             src: "/assets/meshes2/44934035_sept18_hero19_113a_DSLR_photo_of_a_ghost_eating_a_hamburger_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44934035_sept18_hero19_113a_DSLR_photo_of_a_ghost_eating_a_hamburger_1step.png",
             "environment-image": "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr",
+            caption: "a DSLR photo of a ghost eating a hamburger",
+            shortCaption: "[...] ghost eating a hamburger",
         },
         corgi: {
             src: "/assets/meshes2/44960400_sept18_hero20peter_117a_plush_toy_of_a_corgi_nurse_1step.glb",
             poster: "https://dreamfusion-cdn.ajayj.com/mesh_previews2/44960400_sept18_hero20peter_117a_plush_toy_of_a_corgi_nurse_1step.png",
             "environment-image": "https://modelviewer.dev/shared-assets/environments/spruit_sunrise_1k_HDR.hdr",
+            caption: "a plush toy of a corgi nurse",
+            shortCaption: "a plush toy of a corgi nurse",
         },
     };
 
